@@ -1,0 +1,90 @@
+locations = `[
+  {"name":"Grove Park","pos":[51.469326, -2.600498],"type":"Hub"},
+  {"name":"Redland Grove", "pos":[51.468388, -2.600107],"type":"Spoke"},
+  {"name":"Northumbria Drive", "pos":[51.481251, -2.612605], "type":"Hub"},
+
+  {"name":"Wathen Road", "pos":[51.473362, -2.583658], "type":"Hub"},
+  {"name":"Somerville Road", "pos":[51.474892, -2.587145], "type":"Spoke"},
+
+  {"name":"Morley Sq", "pos":[51.477109, -2.588593], "type":"Hub"},
+
+  {"name":"Raglan Rd", "pos":[51.473014, -2.592638], "type":"Hub"},
+  {"name":"Pine Grove Pl", "pos":[51.47276, -2.592235], "type":"Spoke"},
+  {"name":"Raglan Place", "pos":[51.472787, -2.593029], "type":"Spoke"},
+  {"name":"Meridian Terrace", "pos":[51.472418, -2.591823], "type":"Spoke"},
+
+  {"name":"Trelawney Rd", "pos":[51.464446, -2.602367], "type":"Hub"},
+  {"name":"Kingsdown Parade", "pos":[51.462651, -2.595053], "type":"Spoke"},
+  {"name":"Cotham Lawn Rd", "pos":[51.464008, -2.601866], "type":"Spoke"},
+  {"name":"Alma Rd", "pos":[51.462397, -2.612456], "type":"Spoke"},
+  {"name":"Canynge Rd", "pos":[51.459434, -2.623452], "type":"Spoke"},
+  {"name":"Chapel Green lane", "pos":[51.47134, -2.609256], "type":"Spoke"},
+  {"name":"Marlborough Hill", "pos":[51.46035, -2.596393], "type":"Spoke"},
+  {"name":"Cotham Side", "pos":[51.464104, -2.594538], "type":"Spoke"},
+  {"name":"St. Mathews Rd", "pos":[51.462943, -2.596307], "type":"Spoke"},
+  {"name":"Nevil Rd", "pos":[51.478857, -2.586997], "type":"Spoke"},
+
+  {"name":"Clare Avenue", "pos":[51.475855, -2.599523], "type":"Hub"},
+
+  {"name":"Chandos Rd",     "pos":[51.467841, -2.605721], "type":"Hub"},
+  {"name":"Fernbank Rd",    "pos":[51.469014, -2.60222], "type":"Spoke"},
+  {"name":"Alexandra Park", "pos":[51.468298, -2.602633], "type":"Spoke"},
+  {"name":"Roslyn Rd",      "pos":[51.467753, -2.603035], "type":"Spoke"},
+  {"name":"Stanley Rd",     "pos":[51.467665, -2.603824], "type":"Spoke"},
+  {"name":"Landsdown Rd",   "pos":[51.467474, -2.604427], "type":"Spoke"},
+  {"name":"Brighton Rd",    "pos":[51.467233, -2.605055], "type":"Spoke"},
+  {"name":"Cowper Rd",      "pos":[51.46708, -2.60579], "type":"Spoke"},
+  {"name":"Collingwood Rd", "pos":[51.466812, -2.60646], "type":"Spoke"},
+  {"name":"Elliston Rd",    "pos":[51.469005, -2.605018], "type":"Spoke"},
+  {"name":"Woodfield Rd",   "pos":[51.467973, -2.606901], "type":"Spoke"},
+  {"name":"Clyde Rd",       "pos":[51.469416, -2.606617], "type":"Spoke"},
+  {"name":"Clyde Park",     "pos":[51.468791, -2.60688], "type":"Spoke"},
+  {"name":"Clyde Mews(Lane?)", "pos":[51.468918, -2.605914], "type":"Spoke"},
+  {"name":"Effingham Road", "pos":[51.472252, -2.588731], "type":"Hub"},
+  {"name":"Maurice Rd", "pos":[51.472539, -2.585708], "type":"Spoke"},
+  {"name":"Windsor Rd", "pos":[51.471075, -2.587436], "type":"Spoke"},
+
+  {"name":"Fenton Road", "pos":[51.48045, -2.595843], "type":"Hub"},
+
+  {"name":"Chesterfield Rd", "pos":[51.470541, -2.585584], "type":"Hub"},
+
+  {"name":"Salisbury Rd", "pos":[51.471313, -2.59715], "type":"Hub"},
+
+  {"name":"Upper Belmont Rd", "pos":[51.476068, -2.58831], "type":"Hub"},
+  {"name":"Longfield Rd", "pos":[51.47561, -2.587404], "type":"Spoke"},
+
+  {"name":"Maple Road ", "pos":[51.483908, -2.591735], "type":"Hub"},
+  {"name":"Beloe Rd", "pos":[51.483063, -2.591198], "type":"Spoke"},
+  {"name":"Radnor Rd", "pos":[51.482273, -2.59136], "type":"Spoke"},
+
+  {"name":"Elton Rd", "pos":[51.472116, -2.59557], "type":"Hub"},
+  {"name":"Claremont Rd", "pos":[51.472603, -2.594947], "type":"Spoke"},
+  {"name":"Lwr Redland Rd", "pos":[51.47064, -2.609457], "type":"Spoke"},
+
+  {"name":"Limerick Rd", "pos":[51.471104, -2.599967], "type":"Hub"},
+  {"name":"Glentworth Rd", "pos":[51.47083, -2.600637], "type":"Spoke"},
+
+  {"name":"Redland Court Rd", "pos":[51.471445, -2.601368], "type":"Hub"},
+  {"name":"Northumberland Road", "pos":[51.470915, -2.598218], "type":"Hub"},
+  {"name":"Tyne Rd", "pos":[51.473104, -2.59442], "type":"Hub"},
+
+  {"name":"St Paul's Childrens' Centre", "pos":[51.462204, -2.584082], "type":"Partner"},
+
+  {"name":"The Vench Adventure Playground", "pos":[51.493294, -2.559612], "type":"Partner"},
+
+  {"name":"Felix Road Adventure Playground", "pos":[51.462929, -2.568227], "type":"Partner"},
+
+  {"name":"May Park Primary School", "pos":[51.471988, -2.556971], "type":"Partner"},
+
+  {"name":"Sorting centre at The Ardagh", "pos":[51.48522, -2.593095], "type":"SortingCentre"}
+ ]`;
+
+nonLocs = `[
+
+ {"name":"", "pos":[], "type":""},
+  {"name":"", "pos":[], "type":""},
+  {"name":"", "pos":[], "type":""},
+  {"name":"", "pos":[], "type":""},
+  {"name":"", "pos":[], "type":""},
+  {"name":"", "pos":[], "type":""}
+]`;
