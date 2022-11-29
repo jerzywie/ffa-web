@@ -1,0 +1,3 @@
+[leaflet-image src="https://familyfoodaction.org.uk/wp-content/uploads/2022/11/white-200x100-1.jpg" height=80 zoom=1  zoomcontrol=0 dragging=0 attribution=""]
+
+[leaflet-marker  y=-10 x=15 title="Fruit and Veg contributor" svg color="#8db600" background="#B5651D" iconClass="fa-solid fa-seedling fa-xl"  iconsize="32,56" iconanchor="0,0" popupanchor="-1,-28"][/leaflet-marker]
