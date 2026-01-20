@@ -25,11 +25,9 @@
 
 [leaflet-marker lat=51.481251 lng=-2.612605 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Northumbria Drive[/leaflet-marker]
 
-[leaflet-marker lat=51.474892 lng=-2.587145 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Somerville Rd[/leaflet-marker]
-
 [leaflet-marker lat=51.477109 lng=-2.588593 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Morley Sq[/leaflet-marker]
 
-[leaflet-marker lat=51.473014 lng=-2.592638 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Raglan Rd[/leaflet-marker]
+[leaflet-marker lat=51.473014 lng=-2.592638 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Pine Grove/Raglan Rd[/leaflet-marker]
 
 [leaflet-marker lat=51.475855 lng=-2.599523 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Clare Avenue[/leaflet-marker]
 
@@ -39,7 +37,11 @@
 
 [leaflet-marker lat=51.471075 lng=-2.587436 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Windsor Rd[/leaflet-marker]
 
-[leaflet-marker lat=51.470541 lng=-2.585584 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Chesterfield Rd[/leaflet-marker]
+[leaflet-marker lat=51.473313 lng=-2.583675 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Wathen Rd[/leaflet-marker]
+
+[leaflet-marker lat=51.491688 lng=-2.583199 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Bayswater Rd[/leaflet-marker]
+
+[leaflet-marker lat=51.477626, lng=-2.601877 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Birchall Rd[/leaflet-marker]
 
 [leaflet-marker lat=51.471313 lng=-2.59715 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Salisbury Rd[/leaflet-marker]
 
@@ -59,16 +61,14 @@
 
 [leaflet-marker lat=51.476052 lng=-2.594716 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Berkeley Rd[/leaflet-marker]
 
-[leaflet-marker lat=51.475855 lng=-2.599522 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Clare Ave[/leaflet-marker]
-
 [leaflet-marker lat=51.477160 lng=-2.593776 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Egerton Rd[/leaflet-marker]
 
 [leaflet-marker lat=51.469736 lng=-2.609476 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Elgin Park[/leaflet-marker]
 
 [leaflet-marker lat=51.471005 lng=-2.611160 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Elm Lane[/leaflet-marker]
 
-[leaflet-marker lat=51.471005 lng=-2.611160 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Greenway Rd[/leaflet-marker]
+[leaflet-marker lat=51.475771 lng=-2.602922 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Dugar Walk[/leaflet-marker]
 
-[leaflet-marker lat=51.485765 lng=-2.590135 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]St Leonards Rd[/leaflet-marker]
+[leaflet-marker lat=51.466723 lng=-2.592364 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Arley Hill[/leaflet-marker]
 
-[leaflet-marker lat=51.463141 lng=-2.614359 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Thorndale Mews[/leaflet-marker]
+[leaflet-marker lat=51.45009 lng=-2.593602 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Ovation Finance[/leaflet-marker]
