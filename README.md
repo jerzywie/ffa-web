@@ -4,14 +4,13 @@ Family Food Action Web
 
 ## Overview
 
-Website source code
+This is the code for a map of FFA locations, published on the FFA website
 
-## Notes
+### Updating the map
 
-Currently this is the code for a map of FFA locations.
+Open `collectors.html` as a file in a browser. Clicking on the map gives the lat/long of the location - for copying and pasting into the list of shortcodes.
 
-More coming soon!
-
+The map pins and map key are rendered from Wordpress Short Codes. These all live in the wordpress directory.
 
 ## License
 
