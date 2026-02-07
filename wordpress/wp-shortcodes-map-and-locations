@@ -1,7 +1,13 @@
 [leaflet-map fitbounds detect-retina zoom=13 max_zoom=20 height=600 lat=51.475894 lng=-2.5789901]
 
 
-[leaflet-marker lat=51.462204 lng=-2.584082 title="Partner" svg color="#ffffff" background="#5555ff" iconClass="fa-solid fa-building-user fa-sm"  iconsize="20,35" iconanchor="12,41" popupanchor="-1,-34"]St Paul's Children's Centre[/leaflet-marker]
+[leaflet-marker lat=51.471087 lng=-2.572483 title="Partner" svg color="#ffffff" background="#5555ff" iconClass="fa-solid fa-building-user fa-sm"  iconsize="20,35" iconanchor="12,41" popupanchor="-1,-34"]St Paul's Food Club[/leaflet-marker]
+
+[leaflet-marker lat=51.490968 lng=-2.676148 title="Partner" svg color="#ffffff" background="#5555ff" iconClass="fa-solid fa-building-user fa-sm"  iconsize="20,35" iconanchor="12,41" popupanchor="-1,-34"]Oasis Community Hub[/leaflet-marker]
+
+[leaflet-marker lat=51.459083 lng=-2.577484 title="Partner" svg color="#ffffff" background="#5555ff" iconClass="fa-solid fa-building-user fa-sm"  iconsize="20,35" iconanchor="12,41" popupanchor="-1,-34"]St Nicholas of Tolentino[/leaflet-marker]
+
+[leaflet-marker lat=51.468146 lng=-2.571968 title="Partner" svg color="#ffffff" background="#5555ff" iconClass="fa-solid fa-building-user fa-sm"  iconsize="20,35" iconanchor="12,41" popupanchor="-1,-34"]St Werburghs Community Centre[/leaflet-marker]
 
 [leaflet-marker lat=51.493294 lng=-2.559612 title="Partner" svg color="#ffffff" background="#5555ff" iconClass="fa-solid fa-building-user fa-sm"  iconsize="20,35" iconanchor="12,41" popupanchor="-1,-34"]The Vench Adventure Playground[/leaflet-marker]
 
@@ -35,8 +41,6 @@
 
 [leaflet-marker lat=51.472252 lng=-2.588731 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Effingham Rd[/leaflet-marker]
 
-[leaflet-marker lat=51.471075 lng=-2.587436 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Windsor Rd[/leaflet-marker]
-
 [leaflet-marker lat=51.473313 lng=-2.583675 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Wathen Rd[/leaflet-marker]
 
 [leaflet-marker lat=51.491688 lng=-2.583199 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Bayswater Rd[/leaflet-marker]
@@ -69,6 +73,6 @@
 
 [leaflet-marker lat=51.475771 lng=-2.602922 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Dugar Walk[/leaflet-marker]
 
-[leaflet-marker lat=51.466723 lng=-2.592364 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Arley Hill[/leaflet-marker]
-
 [leaflet-marker lat=51.45009 lng=-2.593602 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Ovation Finance[/leaflet-marker]
+
+[leaflet-marker lat=51.477833 lng=-2.602171 title="Hub" svg color="#ffffff" background="#fd8924" iconClass="fa-solid fa-house fa-xs"  iconsize="16,28" iconanchor="8,34" popupanchor="-1,-28"]Birchall Road[/leaflet-marker]
